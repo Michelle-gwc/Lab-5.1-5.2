@@ -1,0 +1,48 @@
+body {
+ background-color: black;
+ color: #FFFFFF;
+}
+h1 {
+ color: pink;
+ text-align: center;
+ font: bold 400% fantasy;
+}
+p {
+ background-color: #FFFF33;
+ color: black;
+ text-align: center;
+ border: 3px groove #FFFF33;
+}
+
+table, th, td {
+border: 1px solid black;
+text-align: center;
+border-collapse: collapse;
+
+}
+
+table, th, td {
+
+border: 1px solid black;
+
+border-collapse: collapse;
+
+}
+
+th, td {
+
+padding: 10px;
+
+}
+
+th {
+
+background-color: #FDDF95;
+
+}
+
+colgroup {
+
+width: 250px;
+
+}
